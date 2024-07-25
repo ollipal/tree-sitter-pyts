@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-pyts
+module github.com/ollipal/tree-sitter-pyts
 
 go 1.22
 
